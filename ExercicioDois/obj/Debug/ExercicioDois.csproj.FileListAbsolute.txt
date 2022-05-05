@@ -1,0 +1,8 @@
+C:\Users\edleo\source\repos\ExercicioDois\bin\Debug\ExercicioDois.exe.config
+C:\Users\edleo\source\repos\ExercicioDois\bin\Debug\ExercicioDois.exe
+C:\Users\edleo\source\repos\ExercicioDois\bin\Debug\ExercicioDois.pdb
+C:\Users\edleo\source\repos\ExercicioDois\obj\Debug\ExercicioDois.csproj.AssemblyReference.cache
+C:\Users\edleo\source\repos\ExercicioDois\obj\Debug\ExercicioDois.csproj.SuggestedBindingRedirects.cache
+C:\Users\edleo\source\repos\ExercicioDois\obj\Debug\ExercicioDois.csproj.CoreCompileInputs.cache
+C:\Users\edleo\source\repos\ExercicioDois\obj\Debug\ExercicioDois.exe
+C:\Users\edleo\source\repos\ExercicioDois\obj\Debug\ExercicioDois.pdb
