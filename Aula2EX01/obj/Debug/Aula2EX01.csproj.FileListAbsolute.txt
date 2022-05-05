@@ -1,0 +1,8 @@
+C:\Users\edleo\source\repos\Aula2EX01\bin\Debug\Aula2EX01.exe.config
+C:\Users\edleo\source\repos\Aula2EX01\bin\Debug\Aula2EX01.exe
+C:\Users\edleo\source\repos\Aula2EX01\bin\Debug\Aula2EX01.pdb
+C:\Users\edleo\source\repos\Aula2EX01\obj\Debug\Aula2EX01.csproj.AssemblyReference.cache
+C:\Users\edleo\source\repos\Aula2EX01\obj\Debug\Aula2EX01.csproj.SuggestedBindingRedirects.cache
+C:\Users\edleo\source\repos\Aula2EX01\obj\Debug\Aula2EX01.csproj.CoreCompileInputs.cache
+C:\Users\edleo\source\repos\Aula2EX01\obj\Debug\Aula2EX01.exe
+C:\Users\edleo\source\repos\Aula2EX01\obj\Debug\Aula2EX01.pdb
