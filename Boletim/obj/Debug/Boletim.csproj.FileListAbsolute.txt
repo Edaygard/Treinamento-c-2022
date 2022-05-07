@@ -1,0 +1,8 @@
+C:\Users\edleo\source\repos\Boletim\bin\Debug\Boletim.exe.config
+C:\Users\edleo\source\repos\Boletim\bin\Debug\Boletim.exe
+C:\Users\edleo\source\repos\Boletim\bin\Debug\Boletim.pdb
+C:\Users\edleo\source\repos\Boletim\obj\Debug\Boletim.csproj.AssemblyReference.cache
+C:\Users\edleo\source\repos\Boletim\obj\Debug\Boletim.csproj.SuggestedBindingRedirects.cache
+C:\Users\edleo\source\repos\Boletim\obj\Debug\Boletim.csproj.CoreCompileInputs.cache
+C:\Users\edleo\source\repos\Boletim\obj\Debug\Boletim.exe
+C:\Users\edleo\source\repos\Boletim\obj\Debug\Boletim.pdb
